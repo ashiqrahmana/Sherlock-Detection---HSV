@@ -3,13 +3,13 @@
 ## Introduction
 Detective Sherlock has left a secret message for his assistant Dr. Watson while tracking his arch-enemy Professor Moriarty. This repository contains the code and results for decoding the hidden message in the image. The original image can be found in the `data` folder of the Overleaf project.
 
-![Sherlock's Message](path/to/for_watson.png)
+![Sherlock's Message](for_watson.png)
 
 ## Task 1: Decoding Sherlock's Message (1pt)
 ### Results
 The decoded image revealing the secret message can be found in the `results` folder.
 
-![Decoded Message](path/to/decoded_message.png)
+![Decoded Message](result_decoded_image.jpg)
 
 ### Code Explanation
 The code is designed to decode a hidden message by manipulating the Hue, Saturation, and Value (HSV) values of the image. The primary steps are as follows:
